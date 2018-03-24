@@ -1,14 +1,14 @@
 node{
-stage("build"){
+    stage("build"){
 
-echo "helo"
-}
-stage("test"){
+       echo "helo"
+    }
+    stage("test"){
 
-echo "hola"
-}
-stage("build"){
+       echo "hola"
+    }
+    stage("build"){
 
-echo "gracias"
-}
+       echo "gracias"
+    }
 }
