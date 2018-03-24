@@ -1,0 +1,14 @@
+node{
+stage("build"){
+
+echo "helo"
+}
+stage("test"){
+
+echo "hola"
+}
+stage("build"){
+
+echo "gracias"
+}
+}
